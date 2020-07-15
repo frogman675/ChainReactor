@@ -1,0 +1,3 @@
+rootProject.name = 'ChainReactor'
+include 'Game'
+
